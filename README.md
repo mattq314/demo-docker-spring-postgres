@@ -1,4 +1,10 @@
-# from Docker awesome-compose repository and Docker tutorial:
+# Build
+
+Set env var JAVA_HOME to point to your Java installation.  This one worked for me after installing the Eclipse Adoptium JDK:
+`C:\Users\[username]\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.16.8-hotspot`
+
+
+# The rest of this readme is from Docker awesome-compose repository and Docker tutorial:
 
 ## Compose sample application
 ### Java application with Spring framework and a Postgres database
